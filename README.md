@@ -4,8 +4,7 @@
   <img src="https://uploads-ssl.webflow.com/60ec34540d013784844d2ee2/61d42d538aec6733243470a7_Python-logo.png" width="50%" height="50%" alt="Python">
 
 ## (1) Algorithme de Recherche en Profondeur
-   DLS
-   IDS
+   DLS  ....  IDS
 
   <br>
 
