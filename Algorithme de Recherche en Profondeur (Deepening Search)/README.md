@@ -3,7 +3,7 @@
 `Exercice :` <br>
 1) Donner une écriture récursive de l'algorithme de recherche en profondeur limitée 
 2) En déduire alors une écriture de l'algorithme de recherche en profondeur itérative
-   ***
+***
 
 ### Question 1 :
 L'algorithme de recherche en profondeur limitée peut s'écrire de manière récursive de la manière suivante :
