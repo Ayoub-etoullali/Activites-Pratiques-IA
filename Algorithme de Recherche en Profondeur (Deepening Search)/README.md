@@ -1,4 +1,4 @@
-# (4) Spring MVC JPA Hibernate Spring Data Thymeleaf
+# Algorithme de Recherche en Profondeur (Deepening Search)
 
 `Exercice :` <br>
 1) Donner une écriture récursive de l'algorithme de recherche en profondeur limitée 
