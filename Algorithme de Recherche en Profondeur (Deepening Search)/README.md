@@ -5,10 +5,10 @@
 2) En déduire alors une écriture de l'algorithme de recherche en profondeur itérative
 ***
 
-#### L'algorithme de recherche en profondeur limitée peut s'écrire de manière récursive de la manière suivante :
+### L'algorithme de recherche en profondeur limitée peut s'écrire de manière récursive de la manière suivante :
 ![DLS-Algorithm](https://user-images.githubusercontent.com/92756846/226997831-e1d44987-adff-4819-b63a-d2a364ba59f0.jpg) <br>
 
-#### L'algorithme de recherche en profondeur itérative peut s'écrire en utilisant une boucle qui augmente progressivement la profondeur limite :
+### L'algorithme de recherche en profondeur itérative peut s'écrire en utilisant une boucle qui augmente progressivement la profondeur limite :
 ![IDS-Algorithm](https://user-images.githubusercontent.com/92756846/226997960-759044cb-299a-48e0-aafa-49d06ea9c0c0.jpg) <br>
 
 L'algorithme de recherche en profondeur itérative effectue des recherches de plus en plus profondes jusqu'à ce qu'une solution soit trouvée ou que la profondeur maximale soit atteinte. À chaque itération, il utilise l'algorithme de recherche en profondeur limitée pour effectuer une recherche en profondeur jusqu'à la profondeur maximale autorisée. Si une solution est trouvée, l'algorithme renvoie le succès. Sinon, il augmente la profondeur maximale et recommence la recherche.
