@@ -1,10 +1,7 @@
 # Activité Pratique 👨🏻‍💻
-![](https://miro.medium.com/max/647/1*PBTTH5RGrfT1RBXxr989XQ.png)
+![](https://uploads-ssl.webflow.com/60ec34540d013784844d2ee2/61d42d538aec6733243470a7_Python-logo.png)
 
-### (1) Inversion de contrôle et Injection des dépendances
-### (2) Bases des systèmes distribués - Programmation Résaux
-### (3) PA Hibernate Spring Data
-### (4) Spring MVC JPA Hibernate Spring Data Thymeleaf
+### (1) Algorithme de Recherche en Profondeur (DLS -> IDS)
 
 <br>
 
