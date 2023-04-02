@@ -3,13 +3,10 @@
   # Activité Pratique 👨🏻‍💻
   <img src="https://uploads-ssl.webflow.com/60ec34540d013784844d2ee2/61d42d538aec6733243470a7_Python-logo.png" width="50%" height="50%" alt="Python">
 
-## (1) Algorithme de Recherche en Profondeur (DLS -> IDS)
-## (2) Algorithme Générique de recherche heuristique
-
 <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-IA/tree/main/Algorithme%20de%20Recherche%20en%20Profondeur%20(Deepening%20Search)">
-  ## (1) Algorithme de Recherche en Profondeur (DLS -> IDS) </a> <br>
+  (1) Algorithme de Recherche en Profondeur (DLS -> IDS) </a> <br>
 <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-IA/tree/main/Algorithme%20G%C3%A9n%C3%A9rique%20de%20recherche%20heuristique">
-    ## (2) Algorithme Générique de recherche heuristique </a>
+  (2) Algorithme Générique de recherche heuristique </a>
 
   <br>
 
