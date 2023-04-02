@@ -1,7 +1,7 @@
-# Algorithme Générique de recherche heuristique
-
 <div align="center"> 
-  ![image](https://user-images.githubusercontent.com/92756846/229340772-1895f34f-03d9-412f-befc-c133bcbff45e.png) 
+  
+  # Algorithme Générique de recherche heuristique
+  <image src="https://user-images.githubusercontent.com/92756846/229340772-1895f34f-03d9-412f-befc-c133bcbff45e.png"> 
 </div>
 
 L'algorithme générique de recherche heuristique dans un graphe est appelé "A* search" (prononcé "A-star search" en anglais). Il s'agit d'un algorithme de recherche de chemin qui utilise une heuristique pour guider la recherche vers la solution la plus proche de l'objectif.
@@ -19,9 +19,8 @@ La fonction h(n) est une heuristique, c'est-à-dire une estimation de la distanc
 L'algorithme A* explore le graphe en évaluant tous les nœuds accessibles depuis le nœud de départ en fonction de leur fonction f(n), et en choisissant le nœud avec la fonction f(n) la plus faible. L'algorithme s'arrête lorsque le nœud objectif est atteint ou lorsque tous les nœuds ont été évalués sans trouver de solution.
 
 L'algorithme A* est largement utilisé dans les jeux vidéo, les systèmes de navigation, la robotique et d'autres applications qui nécessitent une recherche de chemin efficace dans des graphes de grande taille.
-***
 
-### Voici l'algorithme de recherche A* pour trouver le chemin le plus court dans un graphe :
+## Voici l'algorithme de recherche A* pour trouver le chemin le plus court dans un graphe :
   #### Entrées :
 
 
@@ -51,7 +50,7 @@ L'algorithme A* est largement utilisé dans les jeux vidéo, les systèmes de na
       * sinon, si le nouveau coût g(m) est inférieur au coût g(m) actuel, alors mettre à jour la liste ouverte avec le nouveau coût f(m) et mettre à jour le coût g(m) dans le dictionnaire
    - Si la liste ouverte est vide et que le goal n'a pas été trouvé, alors il n'y a pas de solution.
 
-### Voici un exemple d'implémentation en Python :
+## Voici un exemple d'implémentation en Python :
 
 ![Algorithme-Générique-](https://user-images.githubusercontent.com/92756846/229341249-fa7bb2d5-53ae-4089-9d29-3960f150c949.jpg)
 
