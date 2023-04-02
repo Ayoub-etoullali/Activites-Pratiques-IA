@@ -1,7 +1,7 @@
 <div align="center"> 
   
   # Algorithme Générique de recherche heuristique
-  <image src="https://user-images.githubusercontent.com/92756846/229341545-80a2758c-fd29-40d3-b117-d9326ab10c42.png"> 
+  <image src="https://user-images.githubusercontent.com/92756846/229341622-f3c618ad-d084-4d34-bbdf-ffd8488d8c04.png"> 
 </div>
 
 L'algorithme générique de recherche heuristique dans un graphe est appelé "A* search" (prononcé "A-star search" en anglais). Il s'agit d'un algorithme de recherche de chemin qui utilise une heuristique pour guider la recherche vers la solution la plus proche de l'objectif.
