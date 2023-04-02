@@ -6,9 +6,10 @@
 ## (1) Algorithme de Recherche en Profondeur (DLS -> IDS)
 ## (2) Algorithme Générique de recherche heuristique
 
-<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-IA/tree/main/Algorithme%20de%20Recherche%20en%20Profondeur%20(Deepening%20Search"
-Algorithme de Recherche en Profondeur (DLS -> IDS) </a>
-<a src="Activites-Pratiques-IA/Algorithme Générique de recherche heuristique/">
+<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-IA/tree/main/Algorithme%20de%20Recherche%20en%20Profondeur%20(Deepening%20Search)"
+  Algorithme de Recherche en Profondeur (DLS -> IDS) </a>
+<a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-IA/tree/main/Algorithme%20G%C3%A9n%C3%A9rique%20de%20recherche%20heuristique"
+    Algorithme Générique de recherche heuristique </a>
 
   <br>
 
