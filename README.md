@@ -10,7 +10,7 @@
 <a href="https://github.com/Ayoub-etoullali/Activites-Pratiques-IA/tree/main/Algorithme%20G%C3%A9n%C3%A9rique%20de%20recherche%20heuristique">
   (2) Algorithme Générique de recherche heuristique </a>
 
-  <br><br>
+  <br><br><br>
 
   ![ayoub](https://user-images.githubusercontent.com/92756846/220727344-dbb21e84-4584-4055-bde5-a3c90a64a618.jpg)
   
