@@ -1,6 +1,8 @@
 # Algorithme Générique de recherche heuristique
 
-<div align="center"> ![image](https://user-images.githubusercontent.com/92756846/229340772-1895f34f-03d9-412f-befc-c133bcbff45e.png) </div>
+<div align="center"> 
+  ![image](https://user-images.githubusercontent.com/92756846/229340772-1895f34f-03d9-412f-befc-c133bcbff45e.png) 
+</div>
 
 L'algorithme générique de recherche heuristique dans un graphe est appelé "A* search" (prononcé "A-star search" en anglais). Il s'agit d'un algorithme de recherche de chemin qui utilise une heuristique pour guider la recherche vers la solution la plus proche de l'objectif.
 
@@ -51,8 +53,8 @@ L'algorithme A* est largement utilisé dans les jeux vidéo, les systèmes de na
 
 ### Voici un exemple d'implémentation en Python :
 
-![Algorithme Générique](Algorithme Générique.html)
-[4.pdf](https://github.com/Ayoub-etoullali/Activites-Pratiques-IA/files/11131598/4.pdf)
+![Algorithme-Générique-](https://user-images.githubusercontent.com/92756846/229341249-fa7bb2d5-53ae-4089-9d29-3960f150c949.jpg)
+
 
 ```
 
