@@ -7,6 +7,7 @@
 ## (2) Algorithme Générique de recherche heuristique
 
 <a src="Algorithme de Recherche en Profondeur (Deepening Search)/Recherche en Profondeur Itérative (Iterative Deepening Search - IDS)">
+<a src="Activites-Pratiques-IA/Algorithme Générique de recherche heuristique/">
 
   <br>
 
